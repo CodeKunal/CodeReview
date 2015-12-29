@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TimerAppInMVVM
+
+  Created by Kunal Arora on 21/12/15.
+  Copyright © 2015 Kunal Arora. All rights reserved.
+*/
+
+"start" = "Start";
+"stop" = "Stop";
+"reset" = "Reset";
+"pause" = "Pause";
+"resume" = "Resume";
